@@ -12,4 +12,4 @@ Model 2: output [[1]] is number of cooperators and defectors; output [[2]] is nu
 
 Model 3: output [[1]] is number of cooperators and defectors; output [[2]] is number of honest signallers and mimics; output [[3]] is number of agents with an overt and silent signalling strategy; output [[4]] is changes in mimicry and sensitivity rates; output [[5]] is percentage of cooperative actions
 
-The R markdown file can also be found <a href="">here</a>.
+The R markdown file can also be found <a href="https://htmlpreview.github.io/?https://github.com/jonathanrgoodman/Opportunity/blob/main/Models-notebook.nb.html">here</a>.
